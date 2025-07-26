@@ -1,32 +1,32 @@
 🍔 Bacon Cheeseburger Meatloaf Recipe
-Ingredients:
-For the Meatloaf:
+# Ingredients:
+## For the Meatloaf:
 
-    1 ½ lbs ground beef (80/20 or 85/15)
+- [ ]    1 ½ lbs ground beef (80/20 or 85/15)
 
-    6 slices cooked bacon, chopped
+- [ ]    6 slices cooked bacon, chopped
 
-    1 cup shredded cheddar cheese
+- [ ]    1 cup shredded cheddar cheese
 
-    1 small onion, finely chopped
+- [ ]    1 small onion, finely chopped
 
-    2 cloves garlic, minced
+- [ ]    2 cloves garlic, minced
 
-    ½ cup breadcrumbs
+- [ ]    ½ cup breadcrumbs
 
-    2 eggs
+- [ ]    2 eggs
 
-    ¼ cup ketchup
+- [ ]    ¼ cup ketchup
 
-    2 tbsp yellow mustard
+- [ ]    2 tbsp yellow mustard
 
-    1 tbsp Worcestershire sauce
+- [ ]    1 tbsp Worcestershire sauce
 
-    ½ tsp salt
+- [ ]    ½ tsp salt
 
-    ½ tsp black pepper
+- [ ]    ½ tsp black pepper
 
-    1 tbsp pickle relish (optional – adds a cheeseburger vibe)
+- [ ]    1 tbsp pickle relish (optional – adds a cheeseburger vibe)
 
 For the Topping:
 
