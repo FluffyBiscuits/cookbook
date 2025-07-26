@@ -28,7 +28,7 @@
 
 - [ ]    1 tbsp pickle relish (optional – adds a cheeseburger vibe)
 
-For the Topping:
+## For the Topping:
 
     2 tbsp ketchup
 
@@ -38,7 +38,7 @@ For the Topping:
 
     Extra shredded cheddar cheese (for top)
 
-Instructions:
+## Instructions:
 1. Preheat Oven:
 
     Preheat your oven to 350°F (175°C).
@@ -99,7 +99,7 @@ Instructions:
 
     Let the meatloaf rest for 10 minutes before slicing. This helps retain juices.
 
-Serving Suggestions:
+## Serving Suggestions:
 
     Serve with mashed potatoes, roasted vegetables, or even on toasted buns for the ultimate meatloaf sandwich.
 
