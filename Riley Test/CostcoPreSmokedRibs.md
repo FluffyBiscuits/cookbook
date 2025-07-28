@@ -8,7 +8,7 @@ Field 2: Populated
 *Must have the pre-cooked smoked ribs*
 
 # Ingredients
-- bullet
+- This is how to add a bullet
 - Smoked Ribs
 - plug-in lunch box
 ## Indent 2:
